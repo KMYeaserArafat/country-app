@@ -1,0 +1,54 @@
+.card {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    width: 600px;
+    height: 380px; 
+    background-color: rgb(40, 38, 38);
+    margin : 10px;
+    border-color: rgba(0, 0, 0, 0);
+  }
+
+  .card:hover{
+    box-shadow: 10px 10px 50px black;
+  }
+  
+  .card-img {
+    margin-top: 20px;
+    width: 450px;
+    height: 250px;
+  }
+  
+  .card-title {
+    margin-top: 16px;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+
+
+.cardFrame{
+  display: inline-block;
+  margin-left: 5%;
+}
+
+.card-title{
+  color: aquamarine;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif; 
+}
+
+#btnDelete{
+  width: 450px;
+  font-size: 20px;
+  background-color: red;
+  color: yellow; 
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+#btnDelete:hover{
+  box-shadow: 5px 5px 1000px 20px red;
+}

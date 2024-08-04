@@ -1,0 +1,21 @@
+
+
+#searchDiv{
+    display: inline-block;
+    margin-left: 40%;
+}
+
+#searchBox{
+    font-size: 20px;
+    background-color: rgba(126, 125, 125, 0.364);
+    width: 370px;
+    color: rgb(197, 195, 192);
+    border-radius: 20px;
+    border-color: antiquewhite;
+    padding: 3px;
+    margin-top: 10px;
+}
+
+#search-title{
+    color: antiquewhite;
+}
